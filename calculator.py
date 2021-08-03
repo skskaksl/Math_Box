@@ -17,3 +17,8 @@ def get_Median(x, y):
 def get_Reminder(x, y):
     return x//b
 
+def get_Abs(num):
+    if num>=0:
+        return num
+    else:
+        return -num
