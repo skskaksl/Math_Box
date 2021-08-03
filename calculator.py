@@ -8,5 +8,5 @@ def subtract(x, y):
 def multiply(x, y):
      return x*y
 
-def devide(x, y):
+def devide_free(x, y):
     return x/y
