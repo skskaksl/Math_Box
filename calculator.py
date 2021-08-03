@@ -13,3 +13,7 @@ def devide_new(x, y):
 
 def get_Median(x, y):
     return(x+y)/2
+
+def get_Reminder(x, y):
+    return x//b
+
